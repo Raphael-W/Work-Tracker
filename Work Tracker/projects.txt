@@ -1,1 +1,0 @@
-English,|, 9577bb40-2183-4a1b-95f7-cb47cdf9e269,*|*,Maths,|, c3fc4161-461e-4077-9863-6a967abc244d,*|*,Science,|, 6e60f511-5b0f-4d62-ae06-0e8c912967e8,*|*,History,|, ce3e983c-5a69-448a-b3a5-bd256c328f68,*|*,Computer Science,|, 4ba8013b-c0d5-4525-810b-fc7bae25091e,*|*,Electronics,|, b1ad335b-de44-481e-b033-27f9bb437a84,*|*,
