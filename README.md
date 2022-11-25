@@ -5,4 +5,5 @@ You can record the hours you spend live, or manually add the work you did. When 
 <h3>Download Files</h3>
 
 <h3>Notes</h3>
-This software automatically updates itself (it scans for new releases on GitHub), so internet access is recommended on start-up of software.
+- This software automatically updates itself (it scans for new releases on GitHub), so internet access is recommended on start-up of software.
+- <strong>The software requires the Roboto Mono font to be installed for it to look as intended.</strong>
